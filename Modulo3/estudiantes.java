@@ -1,4 +1,4 @@
-package VisitanteOriginal;
+package Modulo3;
 
 public class estudiantes {
         public static void main(String[] args) {
