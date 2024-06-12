@@ -1,4 +1,7 @@
+package Modulo5;
+
 public class parcial1{
+    
     private String name;
     private int initialQuantity;
     private int soldQuantity;
