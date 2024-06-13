@@ -1,4 +1,4 @@
-package Modulo5;
+package Parcial1;
 
 public class parcial1{
     
